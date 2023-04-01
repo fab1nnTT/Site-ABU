@@ -222,6 +222,7 @@ button {
 .layout_padding {
   padding-top: 90px;
   padding-bottom: 0px;
+  color: #aaa4a4;
 }
 
 .padding_0 {
@@ -439,10 +440,12 @@ button {
 .services_section {
   width: 100%;
   float: left;
+  color: #a8a3a3;
 }
 .services_section_2 {
   width: 100%;
   float: left;
+  color: #9b9b9b;
 }
 .services_taital {
   width: 100%;
