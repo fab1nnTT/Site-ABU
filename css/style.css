@@ -219,12 +219,6 @@ button {
   width: 100%;
 }
 
-.layout_padding {
-  padding-top: 90px;
-  padding-bottom: 0px;
-  color: #aaa4a4;
-}
-
 .padding_0 {
   padding: 0px;
 }
@@ -887,22 +881,14 @@ button {
 /* footer section start */
 
 .footer_section {
-  width: 100%;
-  float: left;
-  background-color: #202020;
+  background-color: #a5a5aff8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer_logo img {
+  width: 300px;
   height: auto;
-  padding-top: 0px;
+  margin-right: 10px;
 }
-
-.margin_top {
-  margin-top: 90px;
-}
-
-.footer_logo {
-  width: 20%;
-  margin: 0 auto;
-  padding: 0px;
-  display: block;
-}
-
-/* footer section end */
