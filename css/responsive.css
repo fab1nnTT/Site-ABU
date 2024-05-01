@@ -609,9 +609,109 @@
     .copyright_text {
         font-size: 19px;
     }
-
-
-
-
 }
 
+@media only screen and (max-width: 640px) {
+    .footer_section {
+        background-color: #a5a5aff8;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      .footer_logo img {
+        width: 200px;
+        height: auto;
+        margin-right: 10px;
+      }
+}
+
+@media only screen and (max-width: 575px) {
+    .footer_section {
+        background-color: #a5a5aff8;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      .footer_logo img {
+        width: 180px;
+        height: auto;
+        margin-right: 10px;
+      }
+}
+
+@media only screen and (max-width: 440px) {
+    .footer_section {
+        background-color: #a5a5aff8;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      .footer_logo img {
+        width: 160px;
+        height: auto;
+        margin-right: 10px;
+      }
+}
+
+@media only screen and (max-width: 415px) {
+    .footer_section {
+        background-color: #a5a5aff8;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      .footer_logo img {
+        width: 150px;
+        height: auto;
+        margin-right: 10px;
+      }
+}
+
+@media only screen and (max-width: 390px) {
+    .footer_section {
+        background-color: #a5a5aff8;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      .footer_logo img {
+        width: 130px;
+        height: auto;
+        margin-right: 10px;
+      }
+}
+
+@media only screen and (max-width: 340px) {
+    .footer_section {
+        background-color: #a5a5aff8;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      .footer_logo img {
+        width: 120px;
+        height: auto;
+        margin-right: 10px;
+      }
+}
+
+@media only screen and (max-width: 340px) {
+    .footer_section {
+        background-color: #a5a5aff8;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+      
+      .footer_logo img {
+        width: 90px;
+        height: auto;
+        margin-right: 10px;
+      }
+}
